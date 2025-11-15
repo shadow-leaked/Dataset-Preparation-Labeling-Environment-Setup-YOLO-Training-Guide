@@ -376,6 +376,9 @@ YOLO generates multiple diagnostic curves during training. Knowing how to interp
 - Sharp drop-offs suggest poor thresholding or inconsistent labeling  
 
 ---
+# Check This Out!!!  
+## [Fine-Tuning The Model](FineTuned.md)
+---
 
 ## 🎯 Final Remarks
 
