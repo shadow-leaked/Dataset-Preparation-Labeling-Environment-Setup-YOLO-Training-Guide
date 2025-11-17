@@ -71,6 +71,9 @@ cd <folder>
 # Create environment
 conda create -n image_env python=3.11
 
+# If you dont want to appear on every terminal run this and restart the terminal
+conda config --show | findstr auto_activate
+ 
 # Activate environment
 conda activate image_env
 
